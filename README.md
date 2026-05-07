@@ -12,7 +12,7 @@
 - inversion_s01_squid_mag_sensors.ipynb
 - inversion_s03_squid_mag_sensors.ipynb
 
-**Running with all-sensor data (requires latest version of laMEG from github)**
+**Running with all-sensor data (requires laMEG v0.1.4)**
 - pipeline_02_raw_prep.py
 - pipeline_03_pp_noise.py
 - pipeline_04_ica_inspection.py
